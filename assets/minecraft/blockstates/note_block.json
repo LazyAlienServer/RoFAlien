@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "powered=true": {
+      "model": "minecraft:block/note_block_powered"
+    }
+  }
+}

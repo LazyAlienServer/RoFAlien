@@ -1,0 +1,13 @@
+{
+    "parent": "block/hopper_side",
+    "textures": {
+		"particle": "block/hopper_outside_disabled",
+		"outside": "block/hopper_outside_disabled",
+		"outside2": "block/hopper_outside2_disabled",
+		"inside3": "block/hopper_inside3_disabled",
+		"top": "block/hopper_top",
+		"inside": "block/hopper_inside_disabled",
+		"outside3": "block/hopper_outside3_disabled"
+
+    }
+}

@@ -3,6 +3,7 @@
   "textures": {
     "platform": "minecraft:block/piston_top",
     "side": "minecraft:block/piston_side",
+    "rod": "minecraft:block/piston_side",
     "unsticky": "minecraft:block/piston_top"
   }
 }
