@@ -2,6 +2,21 @@
   "parent": "minecraft:block/orientable_vertical",
   "textures": {
     "front": "minecraft:block/dropper_front_vertical",
-    "side": "minecraft:block/furnace_top"
-  }
+    "side": "minecraft:block/dropper_top",
+    "bottom": "minecraft:block/dropper_bottom"
+  },
+  "elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#side"},
+				"east": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#side"},
+				"south": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#side"},
+				"west": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#side"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#front"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom"}
+			}
+		}
+	]
 }
