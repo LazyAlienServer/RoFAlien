@@ -24,8 +24,8 @@
 -->
 序号|内容|进度
 -|-|-
-#1|修复漏斗XO标反了的问题|<font color="#59c135">已完成</font>
-#2|修改投掷器与侦测器侧面纹理|<font color="#f9a31b">未开始</font>
+#1|修复漏斗XO标反了的问题|<font color= #59c135>已完成</font>
+#2|修改投掷器与侦测器侧面纹理|<font color= #f9a31b>未开始</font>
 #3|添加红石灯|<font color="">未开始</font>
 #4|添加堆肥桶|<font color="">未开始</font>
 #5|添加标靶|<font color="">未开始</font>
