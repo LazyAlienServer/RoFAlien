@@ -1,0 +1,172 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "level": "0"
+      },
+      "apply": {
+        "model": "minecraft:block/composter"
+      }
+    },
+    {
+      "when": {
+        "level": "1"
+      },
+      "apply": {
+        "model": "minecraft:block/composter_contents1"
+      }
+    },
+    {
+      "when": {
+        "AND": [
+          {
+            "level": "1"
+          }
+        ]
+      },
+      "apply": {
+        "model": "minecraft:block/composter_count1"
+      }
+    },
+    {
+      "when": {
+        "level": "2"
+      },
+      "apply": {
+        "model": "minecraft:block/composter_contents2"
+      }
+    },
+    {
+      "when": {
+        "AND": [
+          {
+            "level": "2"
+          }
+        ]
+      },
+      "apply": {
+        "model": "minecraft:block/composter_count2"
+      }
+    },
+    {
+      "when": {
+        "level": "3"
+      },
+      "apply": {
+        "model": "minecraft:block/composter_contents3"
+      }
+    },
+    {
+      "when": {
+        "AND": [
+          {
+            "level": "3"
+          }
+        ]
+      },
+      "apply": {
+        "model": "minecraft:block/composter_count3"
+      }
+    },
+    {
+      "when": {
+        "level": "4"
+      },
+      "apply": {
+        "model": "minecraft:block/composter_contents4"
+      }
+    },
+    {
+      "when": {
+        "AND": [
+          {
+            "level": "4"
+          }
+        ]
+      },
+      "apply": {
+        "model": "minecraft:block/composter_count4"
+      }
+    },
+    {
+      "when": {
+        "level": "5"
+      },
+      "apply": {
+        "model": "minecraft:block/composter_contents5"
+      }
+    },
+    {
+      "when": {
+        "AND": [
+          {
+            "level": "5"
+          }
+        ]
+      },
+      "apply": {
+        "model": "minecraft:block/composter_count5"
+      }
+    },
+    {
+      "when": {
+        "level": "6"
+      },
+      "apply": {
+        "model": "minecraft:block/composter_contents6"
+      }
+    },
+    {
+      "when": {
+        "AND": [
+          {
+            "level": "6"
+          }
+        ]
+      },
+      "apply": {
+        "model": "minecraft:block/composter_count6"
+      }
+    },
+    {
+      "when": {
+        "level": "7"
+      },
+      "apply": {
+        "model": "minecraft:block/composter_contents7"
+      }
+    },
+    {
+      "when": {
+        "AND": [
+          {
+            "level": "7"
+          }
+        ]
+      },
+      "apply": {
+        "model": "minecraft:block/composter_count7"
+      }
+    },
+    {
+      "when": {
+        "level": "8"
+      },
+      "apply": {
+        "model": "minecraft:block/composter_contents_ready"
+      }
+    },
+    {
+      "when": {
+        "AND": [
+          {
+            "level": "8"
+          }
+        ]
+      },
+      "apply": {
+        "model": "minecraft:block/composter_count8"
+      }
+    }
+  ]
+}

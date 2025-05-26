@@ -1,0 +1,6 @@
+{
+	"parent": "block/composter",
+	"textures": {
+        "count": "block/composter_side4"
+	}
+}
