@@ -1,6 +1,7 @@
 {
 	"pack": {
 		"pack_format": 15,
+		"supported_formats":[1,64],
 		"description": [
 			{"text":"By ","bold":true},
 			{"text":"yizhi9jiyan9","bold":true,"color":"#ffffff"}
