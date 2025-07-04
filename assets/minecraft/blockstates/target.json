@@ -1,0 +1,20 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "power": "0"
+      },
+      "apply": {
+        "model": "minecraft:block/target"
+      }
+    },
+    {
+      "when": {
+        "power": "!0"
+      },
+      "apply": {
+        "model": "minecraft:block/target_enabled"
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/target",
+  "textures": {
+    "end": "minecraft:block/target_top_enable",
+    "side": "minecraft:block/target_side_enable"
+  }
+}
