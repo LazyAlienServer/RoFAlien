@@ -10,10 +10,122 @@
     },
     {
       "when": {
-        "power": "!0"
+        "power": "1"
       },
       "apply": {
-        "model": "minecraft:block/target_enabled"
+        "model": "minecraft:block/target1"
+      }
+    },
+    {
+      "when": {
+        "power": "2"
+      },
+      "apply": {
+        "model": "minecraft:block/target2"
+      }
+    },
+    {
+      "when": {
+        "power": "3"
+      },
+      "apply": {
+        "model": "minecraft:block/target3"
+      }
+    },
+    {
+      "when": {
+        "power": "4"
+      },
+      "apply": {
+        "model": "minecraft:block/target4"
+      }
+    },
+    {
+      "when": {
+        "power": "5"
+      },
+      "apply": {
+        "model": "minecraft:block/target5"
+      }
+    },
+    {
+      "when": {
+        "power": "6"
+      },
+      "apply": {
+        "model": "minecraft:block/target6"
+      }
+    },
+    {
+      "when": {
+        "power": "7"
+      },
+      "apply": {
+        "model": "minecraft:block/target7"
+      }
+    },
+    {
+      "when": {
+        "power": "8"
+      },
+      "apply": {
+        "model": "minecraft:block/target8"
+      }
+    },
+    {
+      "when": {
+        "power": "9"
+      },
+      "apply": {
+        "model": "minecraft:block/target9"
+      }
+    },
+    {
+      "when": {
+        "power": "10"
+      },
+      "apply": {
+        "model": "minecraft:block/target10"
+      }
+    },
+    {
+      "when": {
+        "power": "11"
+      },
+      "apply": {
+        "model": "minecraft:block/target11"
+      }
+    },
+    {
+      "when": {
+        "power": "12"
+      },
+      "apply": {
+        "model": "minecraft:block/target12"
+      }
+    },
+    {
+      "when": {
+        "power": "13"
+      },
+      "apply": {
+        "model": "minecraft:block/target13"
+      }
+    },
+    {
+      "when": {
+        "power": "14"
+      },
+      "apply": {
+        "model": "minecraft:block/target14"
+      }
+    },
+    {
+      "when": {
+        "power": "15"
+      },
+      "apply": {
+        "model": "minecraft:block/target15"
       }
     }
   ]
