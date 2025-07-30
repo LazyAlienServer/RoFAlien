@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/dropper_vertical",
+  "textures": {
+    "front": "minecraft:block/dropper_fv_triggered",
+    "side": "minecraft:block/dropper_top_triggered",
+    "bottom": "minecraft:block/dropper_bottom_triggered"
+  }
+}

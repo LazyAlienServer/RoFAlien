@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/dispenser_vertical",
   "textures": {
-    "front": "minecraft:block/dispenser_front_vertical_triggered",
+    "front": "minecraft:block/dispenser_fv_triggered",
     "side": "minecraft:block/dispenser_top_triggered",
     "bottom": "minecraft:block/dispenser_bottom_triggered"
   }
