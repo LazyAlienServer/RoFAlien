@@ -1,0 +1,7 @@
+{
+  "ProjectName": "RoFAlien",
+  "Version": "0.0.2s-1",
+  "RootPath": "./src/",
+  "OutPath": "./build/",
+  "DefaultEnvVars": {}
+}

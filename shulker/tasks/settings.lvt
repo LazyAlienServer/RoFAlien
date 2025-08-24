@@ -1,0 +1,2 @@
+var gameRoot "F:\testclient\versions\LCP-1.20.1"
+var targetPath "^gameRoot^\resourcepacks\debugging"
