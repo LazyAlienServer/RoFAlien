@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe22085d-d4ec-41af-9ba4-fbbe4637a82b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE-CC-BY-NC-SA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/acacia_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/bamboo_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/birch_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/cherry_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/comparator.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/composter.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/crimson_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/dark_oak_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/dispenser.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/dropper.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/heavy_weighted_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/hopper.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/jungle_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/light_weighted_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/mangrove_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/moving_piston.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/note_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/oak_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/observer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/piston.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/piston_head.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/polished_blackstone_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/redstone_torch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/redstone_wall_torch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/redstone_wire.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/repeater.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/spruce_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/sticky_piston.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/stone_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/target.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/blockstates/warped_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/acacia_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/acacia_pressure_plate_down.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/bamboo_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/bamboo_pressure_plate_down.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/birch_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/birch_pressure_plate_down.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/cherry_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/cherry_pressure_plate_down.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/comparator.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/comparator_on.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/comparator_on_subtract.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/comparator_subtract.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter_contents1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter_contents2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter_contents3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter_contents4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter_contents5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter_contents6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter_contents7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter_contents_ready.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter_count1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter_count2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter_count3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter_count4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter_count5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter_count6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter_count7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/composter_count8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/crimson_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/crimson_pressure_plate_down.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/dark_oak_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/dark_oak_pressure_plate_down.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/dispenser.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/dispenser_triggered.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/dispenser_vertical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/dispenser_vertical_triggered.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/dropper.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/dropper_triggered.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/dropper_vertical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/dropper_vertical_triggered.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/heavy_weighted_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/heavy_weighted_pressure_plate_down.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/hopper.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/hopper_disabled.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/hopper_side.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/hopper_side_disabled.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/jungle_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/jungle_pressure_plate_down.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/light_weighted_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/light_weighted_pressure_plate_down.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/mangrove_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/mangrove_pressure_plate_down.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/moving_piston.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/note_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/note_block_powered.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/oak_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/oak_pressure_plate_down.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/observer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/observer_on.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/piston.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/piston_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/piston_base_on.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/piston_extended.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/piston_head.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/piston_head_short.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/piston_head_short_sticky.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/piston_head_sticky.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/piston_inventory.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/polished_blackstone_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/polished_blackstone_pressure_plate_down.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/pressure_plate_down.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/pressure_plate_up.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_dot.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_power.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_power1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_power10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_power11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_power12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_power13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_power14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_power15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_power2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_power3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_power4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_power5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_power6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_power7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_power8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_power9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_side.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_side0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_side1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_side_alt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_side_alt0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_side_alt1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_dust_up.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_torch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_torch_off.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_wall_torch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/redstone_wall_torch_off.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_1tick.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_1tick_locked.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_1tick_on.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_1tick_on_locked.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_2tick.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_2tick_locked.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_2tick_on.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_2tick_on_locked.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_3tick.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_3tick_locked.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_3tick_on.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_3tick_on_locked.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_4tick.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_4tick_locked.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_4tick_on.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_4tick_on_locked.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/repeater_delay1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/spruce_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/spruce_pressure_plate_down.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/sticky_piston.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/sticky_piston_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/sticky_piston_base_on.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/sticky_piston_inventory.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/stone_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/stone_pressure_plate_down.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/target_enabled.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/template_dropper.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/template_piston.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/template_piston_head.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/template_piston_head_short.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/template_redstone_torch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/template_redstone_torch_wall.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/template_torch_unlit.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/template_torch_wall_unlit.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/warped_pressure_plate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/block/warped_pressure_plate_down.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/piston.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/sticky_piston.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/comparator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/comparator_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_compost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_ready.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_side.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_side1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_side2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_side3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_side4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_side5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_side6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_side7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_side8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/composter_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dispenser_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dispenser_back_triggered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dispenser_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dispenser_bottom_triggered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dispenser_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dispenser_front_triggered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dispenser_front_vertical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dispenser_fv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dispenser_fv_triggered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dispenser_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dispenser_side_triggered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dispenser_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dispenser_top_triggered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dropper_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dropper_back_triggered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dropper_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dropper_bottom_triggered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dropper_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dropper_front_triggered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dropper_front_vertical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dropper_fv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dropper_fv_triggered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dropper_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dropper_side_triggered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dropper_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/dropper_top_triggered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/furnace_bottom.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/furnace_side.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/furnace_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/furnace_top.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/furnace_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_inside.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_inside.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_inside2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_inside2_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_inside3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_inside3_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_inside_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_outside.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_outside.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_outside2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_outside2_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_outside3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_outside3_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_outside_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/hopper_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/mossy_cobblestone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/note_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/note_block_powered.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/note_block_powered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/observer_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/observer_back_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/observer_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/observer_front_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/observer_side.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/observer_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/observer_side_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/observer_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/observer_top_on.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/observer_top_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_bottom_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_bottom_sticky.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_bottom_sticky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_bottom_sticky_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_inner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_inner_sticky.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_inner_sticky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_rod.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_rod.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_side_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_side_sticky.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_side_sticky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_side_sticky_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/piston_top_sticky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/pressure_plate_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/pressure_plate_up.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/pressure_plate_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_dot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_dot0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_line0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_line1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_power0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_power1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_power10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_power11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_power12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_power13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_power14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_power15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_power2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_power3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_power4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_power5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_power6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_power7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_power8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_dust_power9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_lamp.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_lamp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_lamp_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_torch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/redstone_torch_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/repeater.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/repeater.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/repeater_delay1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/repeater_delay1_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/repeater_delay2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/repeater_delay2_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/repeater_delay3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/repeater_delay3_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/repeater_delay4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/repeater_delay4_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/repeater_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/smooth_stone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/stone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_side_enable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/target_top_enable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/test/redstone_dust_dot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/test/redstone_dust_line0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/test/redstone_dust_line1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack.mcmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack_512x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack_legacy.aseprite" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="31rJlhHUkK8TEiuitOjwJ3kdJ4Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe22085d-d4ec-41af-9ba4-fbbe4637a82b" name="Changes" comment="" />
+      <created>1756276411559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756276411559</updated>
+      <workItem from="1756276414482" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
