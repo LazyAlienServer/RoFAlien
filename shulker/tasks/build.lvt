@@ -1,0 +1,6 @@
+echo "=====&3Build - %project.name% %project.ver%&r====="
+makeCopy (?i)\.aseprite$
+copy LICENSE-CC-BY-NC-SA "%project.cache%/LICENSE"
+import shulker.ase
+ase "%project.src%" "%project.cache%"
+echo "&aBUILD CACHE PREPARED!&r"

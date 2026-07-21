@@ -1,1 +1,7 @@
 .obsidian
+.omo
+.playwright-mcp/
+/build/
+/shulker/local/
+/srdk.exe
+/shulker/extensions/*.dll

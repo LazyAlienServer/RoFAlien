@@ -17,6 +17,61 @@
 
 官方 QQ 群为：1007632825
 
+## 构建资源包
+
+项目使用 [ShulkerRDK](https://github.com/LiPolymer/ShulkerRDK) 从 `src/`
+生成资源包。第一次使用时安装经过 SHA-256 校验的固定版本，然后构建：
+
+```powershell
+.\shulker\install.ps1
+.\shulker\build.ps1
+```
+
+成品位于 `build/RoFAlien_0.0.2.zip`。`build/` 和
+`shulker/local/` 都是本地生成目录，不应提交。工具版本与 SHA-256
+记录在 [`shulker/TOOLS.md`](shulker/TOOLS.md)。
+
+请始终使用 `shulker/build.ps1`，不要直接把 `srdk.exe build` 用作自动化
+成功判据。B0.15 的 Aseprite 转换可能在主进程退出后继续写文件；包装脚本会
+等待构建缓存的路径、长度和 SHA-256 连续稳定，再自行打包，并验证所有静态
+资源、Aseprite 输出和资源包根文件均存在。
+
+### 从一个 Aseprite 文件导出多张贴图
+
+将 `.aseprite` 文件放在 `src/` 中最终贴图所在的位置。构建时源文件不会
+进入 ZIP，ShulkerRDK 会根据图层名中的 `#标签` 合成 PNG：
+
+| Aseprite 图层名 | 构建行为 |
+| --- | --- |
+| `外框` | 公共图层，包含在基础贴图和所有标签变体中 |
+| `亮起#_on` | 只包含在 `_on` 变体中 |
+| `共享细节#_on#_locked` | 同时包含在 `_on` 与 `_locked` 变体中 |
+| `#disableBase` | 不生成无后缀的基础贴图 |
+
+例如 `repeater.aseprite` 包含以下图层：
+
+```text
+底座
+红石火把
+亮起效果#_on
+锁定效果#_locked
+公共状态标记#_on#_locked
+```
+
+构建后会生成：
+
+```text
+repeater.png
+repeater_on.png
+repeater_locked.png
+```
+
+每个标签变体都是“无标签公共图层 + 当前标签图层”的合成结果。如果只想
+生成带标签的贴图，请添加名为 `#disableBase` 的图层。标签建议统一使用
+`#_后缀`，这样输出名称可直接对应 Minecraft 模型引用。当前转换器处理静态
+贴图的第 1 帧，并忽略 Tilemap 图层；复杂动画、不同裁剪尺寸或组合式批量
+变体应使用单独的导出脚本，而不要强行编码进标签。
+
 ## 计划表 - 0.0.3
 
 <!--
