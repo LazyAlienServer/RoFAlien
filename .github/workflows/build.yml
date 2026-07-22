@@ -1,0 +1,40 @@
+name: Build resource pack
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: build-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Build with ShulkerRDK
+    runs-on: windows-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Install ShulkerRDK
+        shell: pwsh
+        run: .\shulker\install.ps1
+
+      - name: Build and verify resource pack
+        shell: pwsh
+        run: .\shulker\build.ps1
+
+      - name: Upload resource pack
+        uses: actions/upload-artifact@v4
+        with:
+          name: RoFAlien-${{ github.sha }}
+          path: build/*.zip
+          if-no-files-found: error
+          retention-days: 14
+          compression-level: 0
